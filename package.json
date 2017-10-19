@@ -1,0 +1,32 @@
+{
+  "name": "libprops",
+  "version": "1.0.0",
+  "description": "Read properties files inside browser",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/libprops.git"
+  },
+  "keywords": [
+    "Properties"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/libprops/issues"
+  },
+  "homepage": "https://github.com/ornorm/libprops#readme",
+  "dependencies": {
+    "eventslib": "^1.0.0",
+    "hjs-collection": "^1.0.0",
+    "hjs-core": "^1.0.0",
+    "hjs-io": "^1.0.0",
+    "libhttp": "^1.0.0"
+  }
+}
