@@ -14,6 +14,9 @@
     "url": "git+https://github.com/ornorm/libprops.git"
   },
   "keywords": [
+    "LineReader",
+    "PropertiesEvent",
+    "PropertiesListener",
     "Properties"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
